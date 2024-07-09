@@ -81,7 +81,6 @@ https://github.com/Abhishek22K/Hostel-Management-System
 ![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/cartpage.png)
 ![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/homepage.png)
 ![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/loginmodal.png)
-![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/mainpage.png)
 ![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/productpage.png)
 ![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/productzoom.png)
 ![Image of adduser](https://github.com/PuneethReddyHC/online-shopping-with-advanced-admin-page/blob/master/screenshot/registermodal.png)
