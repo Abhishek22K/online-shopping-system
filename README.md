@@ -1,12 +1,3 @@
-![GitHub](https://img.shields.io/github/license/puneethreddyhc/online-shopping-system-advanced)
-![](https://visitor-badge.glitch.me/badge?page_id=puneethreddyhc.onlineadv)
-
-<a href="https://www.buymeacoffee.com/puneethreddyhc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="195" height="55"></a>
-
-> ## Updated project with extra Features like WISHLIST, List Orders, add Reviews, updated routing, resolved search bug is available for Premium 
-
-[![Youtube Video](https://img.youtube.com/vi/gLwfj67GI8A/0.jpg)](https://youtu.be/gLwfj67GI8A)
-
 <h3>Things I code with</h3>
 <p>
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -43,20 +34,13 @@
 	<li><b>React JS</b></li>
 	<li><b>AI/ML</b></li>
 </ul>
-<h2> Projects with installation support and code explaination for Premium contact gmail: puneethreddy951@gmail.com or visit :<a href="http://www.projectswall.com/">Projects Wall</a></h2>
-
 # Installation
 
 1. Install XAMPP or WAMPP.
 
 2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-3. Download project from github(https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page.git)  
-    OR follow gitbash commands
-    
-    i>cd C:\\xampp\htdocs\
-    
-    ii>git clone https://github.com/PuneethReddyHC/online-shopping-system-with-advanced-admin-page.git
+3. Download project from githubOR follow gitbash commands
     
 4. extract files in C:\\xampp\htdocs\.
 
@@ -78,14 +62,10 @@
 
 13. admin login details  Email=admin@gmail.com or username = admin and Password=123456789.
 
-## If you like my project 
-Bye me Cup of coffee
 
 
 ## visit my other repository with different admin pages with below link
-https://github.com/PuneethReddyHC/online-shopping-system-advanced
-
-https://github.com/PuneethReddyHC/event-management
+https://github.com/Abhishek22K/Hostel-Management-System
 
 ##  If you like my project hit a star button
 
