@@ -72,7 +72,16 @@ https://github.com/Abhishek22K/Hostel-Management-System
 
 
 # Screenshots
-![1](https://github.com/user-attachments/assets/01c648cf-b67b-44ea-b497-0a23dffffe9e)
+![9](https://github.com/user-attachments/assets/6145bef5-f210-4c2d-95a9-74f471d0c07b)
+![8](https://github.com/user-attachments/assets/ca85be6d-68c0-47e9-b833-f718889b3365)
+![7](https://github.com/user-attachments/assets/a15c22d5-85ab-4b5f-9718-6eba5ef7c3b8)
+![6](https://github.com/user-attachments/assets/cf4cc179-75e2-4396-95bf-9f1445abb387)
+![5](https://github.com/user-attachments/assets/6b33edb0-e6ad-4ebe-9228-7c54783b747c)
+![4](https://github.com/user-attachments/assets/437980dd-a7e2-4cf5-b00a-f449e54064b1)
+![3](https://github.com/user-attachments/assets/6c2cfe0a-1015-4dc6-9316-7f23c792eafb)
+![2](https://github.com/user-attachments/assets/6dd8b4f5-c342-4f3e-8936-81555bbde73b)
+![1](https://github.com/user-attachments/assets/c00ccbe2-cbe2-4730-8526-eacaeee7facd)
+
 
 
 
