@@ -72,15 +72,16 @@ https://github.com/Abhishek22K/Hostel-Management-System
 
 
 # Screenshots
-![9](https://github.com/user-attachments/assets/6145bef5-f210-4c2d-95a9-74f471d0c07b)
-![8](https://github.com/user-attachments/assets/ca85be6d-68c0-47e9-b833-f718889b3365)
-![7](https://github.com/user-attachments/assets/a15c22d5-85ab-4b5f-9718-6eba5ef7c3b8)
-![6](https://github.com/user-attachments/assets/cf4cc179-75e2-4396-95bf-9f1445abb387)
-![5](https://github.com/user-attachments/assets/6b33edb0-e6ad-4ebe-9228-7c54783b747c)
-![4](https://github.com/user-attachments/assets/437980dd-a7e2-4cf5-b00a-f449e54064b1)
-![3](https://github.com/user-attachments/assets/6c2cfe0a-1015-4dc6-9316-7f23c792eafb)
-![2](https://github.com/user-attachments/assets/6dd8b4f5-c342-4f3e-8936-81555bbde73b)
-![1](https://github.com/user-attachments/assets/c00ccbe2-cbe2-4730-8526-eacaeee7facd)
+![1](https://github.com/user-attachments/assets/d80c7bd1-216c-4ec1-a645-039e86a3731f)
+![2](https://github.com/user-attachments/assets/b7b389fb-2347-4583-b0b1-fef410f3fa95)
+![3](https://github.com/user-attachments/assets/259311a9-6b16-4c54-8348-4d3414ded296)
+![4](https://github.com/user-attachments/assets/a991903c-f4af-41a2-887b-14e21132bb98)
+![5](https://github.com/user-attachments/assets/a8d3f11a-a81c-43a5-99bd-651058c380c6)
+![6](https://github.com/user-attachments/assets/b0882210-fefe-40c4-9932-4ea17c2e2a46)
+![7](https://github.com/user-attachments/assets/ac67d57c-1a45-4c0a-9aac-404866f8f4f4)
+![8](https://github.com/user-attachments/assets/ee17120c-ade6-4b5c-a55b-5c12d12b649d)
+![9](https://github.com/user-attachments/assets/d51fc6e8-24bc-40d7-a2cb-f01e2b572922)
+
 
 
 
